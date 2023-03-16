@@ -42,7 +42,6 @@ h2 {
 
 #ride {
 	float: none;
-Width:50px;
 }
 
 video {
@@ -60,7 +59,7 @@ video {
 	#ride {
 		float: left;
 		margin-right: 20px;
-		width: 180px;
+		width: 50px;
 
 	}
 	video {
